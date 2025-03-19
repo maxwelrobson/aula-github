@@ -1,3 +1,4 @@
 Exemplo de branch
 Teste 4
 Exemplo de conflito no commit
+teste novo conflito
